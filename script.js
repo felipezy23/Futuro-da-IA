@@ -6,24 +6,24 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
+        enunciado: "A Inteligência Artificial vai substituir os seres humanos no mercado de trabalho??",
         alternativas: [
             {
-                texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
-                afirmacao: "Os livros ainda são de uma grande importância para os estudos e para a formação da etica e moral da população, sendo sem dúvidas um grande alicerce da sociedade."
+                texto: "A IA pode substituir algumas tarefas repetitivas, mas também poderá criar novas profissões e ajudar os trabalhadores a serem mais produtivos",
+                afirmacao: "Muitas pessoas podem perder seus empregos se empresas substituírem trabalhadores por sistemas de IA, aumentando o desemprego e a desigualdade."
             },
             {
-                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
-                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
+                texto: "A Inteligência Artificial vai transformar profundamente o mercado de trabalho, substituindo algumas funções e criando novas profissões.",
+                afirmacao: "A automação pode aumentar a produtividade das empresas, mas também pode causar desemprego em determinadas áreas."
             }
         ]
     },
     {
-        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
+        enunciado: "A Inteligência Artificial poderá melhorar a vida das pessoas no futuro??",
         alternativas: [
             {
-                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
-                afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
+                texto: "Sim. A IA tem potencial para transformar diversas áreas da sociedade. Na medicina, por exemplo, pode auxiliar médicos na identificação de doenças e na análise de exames.",
+                afirmacao: "Na educação, pode ajudar estudantes a aprender de maneira mais personalizada, adaptando explicações ao nível de cada pessoa."
             },
             {
                 texto: "Ler livros didáticos e de autores conhecidos.",
